@@ -16,7 +16,7 @@
 
 
 ## Credits
-Xpert Learning Assistant. (2023). Full 
+
 
 License
 N/A
